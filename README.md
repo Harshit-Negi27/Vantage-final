@@ -10,12 +10,15 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-### 🚀 View Live Demo
-https://vantage-final-si2y.vercel.app/
+<div align="center">
+  
+### [🚀 View Live Demo](https://vantage-final-si2y.vercel.app/)
+
+</div>
 
 ---
 
-## 👨‍💻 My Contribution -(Lead AI & Backend Architect)
+## 👨‍💻 My Contributio- Harshit Negi (Lead AI & Backend Architect)
 
 As the **Lead AI & Backend Architect** for Team Byakugan, I designed and implemented the core intelligence layer that transforms Vantage from a simple whiteboard into an intelligent research workspace:
 
@@ -49,21 +52,21 @@ My work enables Vantage to function as a **visual intelligence platform** where 
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/landing-page.png" alt="Vantage Landing Page" />
+      <img src="https://github.com/user-attachments/assets/7dc6efde-32f8-4e60-a4ae-723924d94201" alt="Vantage Landing Page" />
       <p align="center"><b>Visual Research Workspace</b><br/>AI-powered research on an infinite canvas</p>
     </td>
     <td width="50%">
-      <img src="./assets/dashboard-screenshot.png" alt="Financial Dashboard" />
+      <img src="https://github.com/user-attachments/assets/e5a74caf-2a87-44f5-9597-f5c6e96caa95" alt="Financial Dashboard" />
       <p align="center"><b>Real-time Financial Analysis</b><br/>Live market data integration with NVIDIA, AAPL, GOOGL tracking</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./assets/features-overview.png" alt="Core Features" />
+      <img src="https://github.com/user-attachments/assets/9df672b3-b2bf-49c3-a9c7-dfaaa5601b1a" alt="Core Features" />
       <p align="center"><b>Intelligent Features</b><br/>Create nodes, chat with AI, and perform deep research seamlessly</p>
     </td>
     <td width="50%">
-      <img src="./assets/knowledge-graph.png" alt="Knowledge Graph" />
+      <img src="https://github.com/user-attachments/assets/1b98994d-d50c-43db-8e34-47889eb6dad7" alt="Knowledge Graph" />
       <p align="center"><b>Connected Knowledge Graph</b><br/>Visualize relationships between research entities and insights</p>
     </td>
   </tr>

@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 My Contributio- Harshit Negi (Lead AI & Backend Architect)
+## 👨‍💻 My Contribution- Harshit Negi (Lead AI & Backend Architect)
 
 As the **Lead AI & Backend Architect** for Team Byakugan, I designed and implemented the core intelligence layer that transforms Vantage from a simple whiteboard into an intelligent research workspace:
 

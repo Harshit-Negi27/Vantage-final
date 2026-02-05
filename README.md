@@ -12,7 +12,7 @@
 
 <div align="center">
   
-### [🚀 View Live Demo](https://vantage-final-si2y.vercel.app/)
+### 🚧 Live Demo temporarily offline for backend upgrades. Please view the screenshots/video below.
 
 </div>
 
